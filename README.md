@@ -1,4 +1,4 @@
-# Tempo & Alerta 🌩️🔌
+# Tempo & Alerta
 Um projeto completo de engenharia de dados e machine learning para analisar, correlacionar e prever interrupções no fornecimento de energia elétrica na cidade de São Paulo com base em condições meteorológicas.
 
 # O Problema e a Solução
