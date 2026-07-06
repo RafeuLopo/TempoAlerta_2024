@@ -47,7 +47,7 @@ Os scripts desenvolvidos (como `minsait_datalake_extraction.py` e `raw_data_proc
 ## Análise e Modelo de Machine Learning
 Ao realizar a análise exploratória, um insight crucial surgiu: a correlação entre chuva/vento e queda de energia não é sempre direta. A principal causa física costuma ser a falha de material/equipamento, que é agravada pelo vento e pela chuva (ex: galhos balançando e atingindo a fiação).
 
-Com base nisso (e analisando a Escala de Beaufort para ventos), o modelo preditivo foi construído (minsait_model_v7.py):
+Com base nisso (e analisando a Escala de Beaufort para ventos), o modelo preditivo foi construído (`minsait_model_v7.py`):
 
 **Algoritmo:** RandomForestClassifier.
 
