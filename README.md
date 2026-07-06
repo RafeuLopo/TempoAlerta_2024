@@ -89,5 +89,3 @@ Executar um projeto de ponta a ponta (arquitetura, ETL, modelagem e deploy) traz
 Qualidade e Frequência dos Dados: Dados abertos de meteorologia (INMET) possuem muitos valores faltantes. Além disso, as bases públicas de interrupção não são atualizadas em tempo real (frequência mensal), dificultando um sistema de alerta "live" perfeito.
 
 Limitações de Hardware e Custos: Para preservar os créditos do Azure, a orquestração do pipeline de dados foi mantida em scripts Python locais ao invés de ferramentas mais robustas (e custosas) como Azure Data Factory + Databricks. Limitações de hardware também impediram o uso de modelos Ensemble mais complexos e deep tuning de hiperparâmetros.
-
-Apesar de tudo dar errado algumas vezes durante o desenvolvimento, respirar fundo e resolver os gargalos fez o esforço valer a pena. O resultado é um produto funcional que cumpre seu papel acadêmico e prova o conceito de uso de dados para segurança energética.
