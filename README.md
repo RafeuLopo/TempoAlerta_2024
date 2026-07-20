@@ -15,7 +15,7 @@ Este projeto nasceu da necessidade de entender e mitigar os impactos das condiç
 ---
 
 ## Arquitetura e Tecnologias
-Para não reinventar a roda e otimizar os recursos disponíveis, a arquitetura foi desenhada com as seguintes ferramentas:
+Para não reinventar a roda e otimizar os recursos disponíveis. A arquitetura foi desenhada com as seguintes ferramentas:
 
 **ClickUp:** Gerenciamento e integração dos stakeholders.
 
