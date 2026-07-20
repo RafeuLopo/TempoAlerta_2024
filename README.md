@@ -40,7 +40,7 @@ Os scripts desenvolvidos (como `minsait_datalake_extraction.py` e `raw_data_proc
 
 **Camada Silver:** Dados devidamente limpos, padronizados e salvos em formato .parquet para preservação de tipagem e otimização de leitura.
 
-**Camada Gold:** Dados agregados e prontos para consumo pelos modelos, dashboards e API.
+**Camada Gold:** Dados agregados e prontos para consumo dos modelos, dashboards e API.
 
 ---
 
